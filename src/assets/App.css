@@ -1,0 +1,150 @@
+/* #root {
+  background-color: rgb(80, 95, 31);
+  height: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+} */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ /* .header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ea6b27;
+  padding: 1rem 2rem;
+} */
+/*
+.navItemsContainer {
+  display: flex;
+}
+.navItems {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 16px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.login-button {
+  width: 100px;
+  margin: 0px 10px;
+  padding: 0px 20px;
+  cursor: pointer;
+}
+
+.searchSection {
+  display: flex;
+  background-color: hsl(111.95deg 30.42% 35.14%);
+  padding: 1rem;
+}
+
+#search-button {
+  margin: 0px 8px;
+}
+
+#filter-button {
+  margin: 0px 8px;
+}
+
+.listingSection {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 4px;
+  margin: 1rem 2rem;
+  justify-content: space-evenly;
+}
+.res-Logo {
+  margin: 5px;
+  width: 190px;
+}
+
+.resName {
+  padding: 6px;
+}
+.resCardContainer {
+  width: 200px;
+  background-color: #f0f0f0;
+  color: black;
+}
+
+.shimmer-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 4px;
+  margin: 1rem 2rem;
+  justify-content: space-evenly;
+  height: 100vh;
+}
+.shimmer-card {
+  width: 200px;
+  height: 300px;
+  background-color: #c8c4c4;
+  color: black;
+}
+
+#details {
+  margin-left: 6px;
+}
+
+.footerContainer {
+  display: flex;
+  height: 5rem;
+  background-color: hsl(311, 56%, 41%);
+  margin-top: auto;
+}
+
+.pages {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ResMenuContainer {
+  margin: 20px auto;
+  background-color: #46753e;
+  width: 600px;
+}
+
+.menuSectionHeader {
+  padding: 10px;
+}
+
+.sectionHeader {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.categoryItems {
+  padding: 0px 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+.pages{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.user-card{
+  margin: 8px 16px;
+  padding: 10px;
+  border: 2px solid rgb(80, 72, 159);
+}
+
+.offlineStatus {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+} */
